@@ -1,11 +1,13 @@
-name: 
-description: >
+name: Junip Dewan
+description:
     
-about: >
+about: Junip is Software Enginner at PromobiTechnologies over 1 years of experience
+      in Ruby, Ruby On rails, Vue, Angular and Modern Javascript. He is a fast learner who always love to learn new skills and implement it.
+      He is a dedicated and commited person who loves to code and  solve complex problem
     
 
 master_repo: false
-url: ""
+url: "junipdewan.github.io"
 markdown: kramdown
 highlighter: rouge
 subdomain_slug: dark-paper
@@ -22,11 +24,11 @@ disqus_shortname:
 
 rtl: false
 owner:
-  name:           
+  name:           "Junip Dewan"
   avatar:         "https://avatars0.githubusercontent.com/u/19765255?s=240&v=4"
   email:          "junip.dewan@gmail.com"
   # Social networking links used in footer. Update and remove as you like.
-  twitter: junipd2
+  twitter: https://twitter.com/junipd2
   github: https://github.com/junipdewan
   stackexchange: https://stackoverflow.com/users/7432239/junip-dewan?tab=profile
   linkedin: https://www.linkedin.com/in/junipdewan/
