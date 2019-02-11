@@ -1,13 +1,12 @@
 name: Junip Dewan
 description:
     
-about: Junip is Software Enginner at PromobiTechnologies over 1 years of experience
-      in Ruby, Ruby On rails, Vue, Angular and Modern Javascript. He is a fast learner who always love to learn new skills and implement it.
-      He is a dedicated and commited person who loves to code and  solve complex problem
+about: Junip is a Software Engineer at Promobi Technologies with almost 2 years of experience in Ruby, ROR, Vue and modern JS. He is a fast learner who can learn and implement new things on the fly. He is a dedicated and hard working version with a love of coding and solving hard problems.
+
     
 
 master_repo: false
-url: "junipdewan.github.io"
+url: " "
 markdown: kramdown
 highlighter: rouge
 subdomain_slug: dark-paper

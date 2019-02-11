@@ -6,7 +6,7 @@ comments: true
 categories: 
 ---
 
-Vue.js is an open-source JavaScript framework for building user interfaces and single-page applications. We will use them Webpack to bundle our javascript. The Webpacker gem in rails makes it easy to use the JavaScript pre-processor and uses webpack to bundle mainly javascript, CSS, images, and fonts assets as well.It manages the application-like javascript in Rails.
+Vue.js is an open-source JavaScript framework for building user interfaces and single-page applications. We will use Webpack to bundle our javascript. The Webpacker gem in rails makes it easy to use the JavaScript pre-processor and uses webpack to bundle mainly javascript, CSS, images, and fonts assets as well.It manages the application-like javascript in Rails.
 
 Prerequisites to install the Webpacker gem
 
