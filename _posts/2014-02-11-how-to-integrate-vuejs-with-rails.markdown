@@ -15,7 +15,7 @@ Prerequisites to install the Webpacker gem
     * Node.js 6.14.4+
     * Yarn 1.x+
 
-Step 1.  Create a new Rails App. Run the command `rails new rails-webpack-vue`
+Step 1.  Create a new Rails App. Run the command rails new rails-webpack-vue
 
 Step 2.  Add gem ‘webpacker’ in the gem file, and later run bundle install
                  
