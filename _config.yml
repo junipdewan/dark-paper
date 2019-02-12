@@ -5,7 +5,7 @@ about: Junip is a Software Engineer at Promobi Technologies with almost 2 years 
 
     
 
-master_repo: false
+master_repo: true
 url: "junipdewan.github.io"
 markdown: kramdown
 highlighter: rouge
