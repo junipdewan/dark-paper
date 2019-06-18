@@ -1,12 +1,48 @@
 ---
 layout: post
-title: "How to Integrate Vuejs With Rails"
+title: "How to Integrate Vuejs With Rails Part 1"
 date: 2018-02-11 05:05:05 +0530
 comments: true
 categories: 
 ---
 
-Vue.js is an open-source JavaScript framework for building user interfaces and single-page applications. We will use Webpack to bundle our javascript. The Webpacker gem in rails makes it easy to use the JavaScript pre-processor and uses webpack to bundle mainly javascript, CSS, images, and fonts assets as well.It manages the application-like javascript in Rails.
+== description
+    Vuejs is an open source javascript framework for building user interface and single page application.Now a days it is getting very popular.
+    Rails provide already erb template which is rendered through controller used in view.It is better approach to use any other framework with rails
+    Vue/React gives you the robust code and maintainability. 
+
+
+    This post will help you to learn to Integrate your rails application  with vuejs and you can also think of to migrate your old application to Vue.js
+    Normally rails have the asset pipeline to compile the assets and javascript, images etc. We will use webpack for the bundling javascript, assets, images
+    The webpacker gem gives the functionality to use webpack. 
+
+    Make sure that you have node and yarn installed in your machine if not then install node and yarn first using the link
+
+    Installing Rails & Ruby `https://gorails.com/setup/ubuntu/16.04` 
+    Installing yarn https://yarnpkg.com/lang/en/docs/install/
+
+    Installing Node ` `
+    
+
+    you will need yarn to install webpacker gem to work . link to install yarn
+
+    create a new rails and vue app and go to your gem file install the gem. after installing the gem run `rails::install::webpacker`
+    this command will generate the webpacker file there you will find the config yml setting fo your application.
+
+    this will generate the javascript/packs/application.js file
+
+
+
+== webpacker
+
+
+== integeration
+
+
+
+== conclusion
+
+Vue.js is an open-source JavaScript framework for building user interfaces and single-page applications. Rails has We will use Webpack to bundle our javascript. The Webpacker gem in rails makes it easy to use the JavaScript pre-processor and uses webpack to bundle mainly javascript, CSS, images, and fonts assets as well.It manages the application-like javascript in Rails.
 
 Prerequisites to install the Webpacker gem
 
